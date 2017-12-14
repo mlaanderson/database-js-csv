@@ -1,0 +1,16 @@
+{
+  "name": "database-js-csv",
+  "version": "0.1.0",
+  "description": "Database-js driver for CSV files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["database-js","csv"],
+  "author": "Michael Anderson",
+  "license": "MIT",
+  "dependencies": {
+    "jl-sql-api": "^2.8.1",
+    "node-sqlparser": "^1.0.2"
+  }
+}
